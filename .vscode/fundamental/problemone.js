@@ -1,0 +1,13 @@
+var fruits = ['Apple', 'Banana', 'Orange'];
+console.log(fruits);
+console.log(fruits.length);
+var findIndex = fruits[2];
+console.log(findIndex);
+var positionIndex = fruits.indexOf('Banana');
+console.log(positionIndex);
+fruits[1]= 'strawberry';
+console.log(fruits);
+fruits.pop();
+console.log(fruits);
+fruits.push('watermelon');
+console.log(fruits);

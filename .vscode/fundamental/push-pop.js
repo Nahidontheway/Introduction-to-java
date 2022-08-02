@@ -37,3 +37,6 @@ console.log(addition);
 firstName.shift();
 console.log(firstName);
 console.log(firstName.length);
+firstName.indexOf(1);
+console.log(firstName);
+console.log(5==5);
